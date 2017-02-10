@@ -1,5 +1,26 @@
-body{
-  
-  color:green;
-  
+body {
+  background:white;
 }
+
+#container{
+    background-color: #FF4500;
+    color: green;
+    margin:25px;
+    padding:25px;
+    border-radius:25px;
+}
+
+.animalName{
+  font-size:24px;
+  color:darkgreen;
+  font-weight:bolder;
+}
+
+.animalDescription{
+  background-color:lighterblue;
+}
+
+.animalDescription img{
+  border-radius:15px;
+}
+
